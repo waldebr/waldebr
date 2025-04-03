@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 📫EMAIL: **waldemarbr125@gmail.com**
+- 📫Email: **waldemarbr125@gmail.com**
 
 <p align="left">
 </p>
